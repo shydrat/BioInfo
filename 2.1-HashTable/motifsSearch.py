@@ -12,3 +12,4 @@ def reversecompl(seq:str) :
     return "".join(rev_seq)
 
 print (reversecompl('AACGTGGCA'))
+
